@@ -94,7 +94,7 @@ body {
 .background {
     width: 100%;
     height: 100vh;
-    background: url('file:///C:/Users/hp/OneDrive/Images/2021-03-23/de1ddf9ee30e08e15460626b919ef87e.jpg') no-repeat;
+    background: url('https://files.fm/u/ye7t2uwgp') no-repeat;
     filter: blur(10px);
 }
 
@@ -105,7 +105,7 @@ body {
     left: -27%;
     transform: translate(50%, 50%);
     height: 600px;
-    background: url('file:///C:/Users/hp/OneDrive/Images/2021-03-23/de1ddf9ee30e08e15460626b919ef87e.jpg') no-repeat;
+    background: url('https://files.fm/u/ye7t2uwgp') no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
